@@ -1,0 +1,70 @@
+body{
+  background-image:linear-gradient(#FFC8DD ,#A2D2FF);
+  text-align:center;
+  color: white;
+  font-family: "Pacifico";
+}
+
+h1{
+    background-color: #CDB4DB;
+    padding: 20px;
+}
+button {
+    background-color:#FFAFCC; 
+    color:white;  
+    font-weight: bolder;
+    padding: 10px;
+    font-size: 18px;
+    text-shadow: 4px 4px 5px black;
+    border-radius:20px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#answer{
+  font-size: 30px;
+  text-decoration:underline;
+}
+
+#birthyear{
+  color:white;
+  background-color: #FFC8DD;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 5px;
+  text-align: center;
+}
+#currentyear{
+  color:white;
+  background-color:#A2D2FF;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 5px;
+  text-align: center;
+
+}
+
+#name {
+  color:white;
+  background-color:#A2D2FF;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 5px;
+  text-align: center;
+}
+#me{
+  width: 100%;
+  padding:5px;
+  background-color: white;
+  color:#A2D2FF;
+  font-size: 17px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+  bottom:0;
+}
+
+
+h3{
+  letter-spacing: 2px;
+  word-spacing: 2px;
+}
+
+
